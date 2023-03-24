@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class OnboardingScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
